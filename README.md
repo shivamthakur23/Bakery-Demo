@@ -1,2 +1,2 @@
-# Bakery-Demo
+# Bakery
 Demo Repo
